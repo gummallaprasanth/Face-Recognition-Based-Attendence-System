@@ -1,0 +1,8 @@
+flask
+matplotlib
+streamlit
+opencv-python
+scikit-learn
+pywin32
+datetime
+pandas
